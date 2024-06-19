@@ -3,4 +3,4 @@ docker.io/jaegertracing/all-in-one:1.56
 quay.io/kiali/kiali:v1.82
 docker.io/grafana/loki:3.0.0
 ghcr.io/prometheus-operator/prometheus-config-reloader:v0.72.0
-prom/prometheus:v2.51
+prom/prometheus:v2.51.1
