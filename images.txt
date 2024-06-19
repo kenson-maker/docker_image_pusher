@@ -1,1 +1,1 @@
-docker.io/istio/operator:1.21.2@sha256:464738ecc5566c634dd22e3057fd58060a1d073d85647bebd16f535586006bcf
+docker.io/istio/pilot:1.21.2
