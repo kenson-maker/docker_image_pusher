@@ -1,2 +1,1 @@
-istioinaction/catalog:latest
-istioinaction/webapp:latest
+docker.io/istio/operator:1.22.1
