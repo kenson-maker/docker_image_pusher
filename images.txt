@@ -1,1 +1,1 @@
-gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
+jaegertracing/all-in-one:1.57.0
