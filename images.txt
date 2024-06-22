@@ -1,1 +1,1 @@
-cjimti/go-echo:latest
+nicholasjackson/fake-service:v0.14.1
