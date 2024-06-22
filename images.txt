@@ -1,1 +1,1 @@
-docker.io/istio/operator:1.22.1
+cjimti/go-echo:latest
