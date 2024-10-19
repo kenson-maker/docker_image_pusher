@@ -1,1 +1,1 @@
-plndr/kube-vip:v0.8.4
+plndr/kube-vip:v0.8.0
