@@ -1,1 +1,1 @@
-nicholasjackson/fake-service:v0.14.1
+calico/kube-controllers:v3.27.3-56-g2183fee023b0-amd64
