@@ -1,2 +1,1 @@
-calico/node:v3.27.3-56-g2183fee023b0
-calico/cni:v3.27.3-53-gfbe4ea590efb-amd64
+plndr/kube-vip:v0.8.4
