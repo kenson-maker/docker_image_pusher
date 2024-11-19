@@ -1,4 +1,1 @@
-opengauss/opengauss:5.0.0
-liaosnet/gbase8s:v8.8_3513x13_x64
-bitnami/mysql:8.3
-
+ openeuler/openeuler:22.03
