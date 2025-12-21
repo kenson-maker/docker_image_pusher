@@ -78,3 +78,15 @@ xiaoyaliu/alist
 修改/.github/workflows/docker.yaml文件
 添加 schedule即可定时执行(此处cron使用UTC时区)
 ![](doc/定时执行.png)
+
+### 检查主分支更新
+如果需要确认主分支（例如 Github 上的 Nexus AIOps 主分支）是否有新的镜像配置或流程改动，可以在本地添加上游远程仓库并对比最新提交：
+
+```bash
+git remote add upstream https://github.com/<owner>/<repo>.git # 仅需执行一次
+git fetch upstream main
+git log --oneline HEAD..upstream/main   # 查看上游新增提交
+git diff HEAD..upstream/main images.txt # 重点关注镜像列表是否有变更
+```
+
+确认需要同步的改动后，再按惯例更新 `images.txt` 或工作流文件并推送到当前分支。
